@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fd3db5a9-6cae-4fb2-87de-611dd761920b}</ProjectGuid>
-    <RootNamespace>CodeforcesPS0020C</RootNamespace>
+    <ProjectGuid>{fc419b65-ec49-4aec-8e7b-a5d2397d6313}</ProjectGuid>
+    <RootNamespace>atcoderbc310c</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CodeforcesPS0020C.cpp" />
+    <ClCompile Include="atcoderbc310c.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

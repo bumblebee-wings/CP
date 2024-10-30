@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodeforcesPS0020C.cpp">
+    <ClCompile Include="atcoderbc310c.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
